@@ -12,8 +12,8 @@
 <div class="bg-animation">
     <div class="interactive-buttons">
         <a href="."><img style="width: 50px" src="{{asset('images/button-image-2.png')}}" alt="quiz-button"></a>
-        <a href="{{route('quiz')}}"><img style="width: 50px" src="{{asset('images/button-image-1.png')}}" alt="quiz-button"></a>
-        <a href="{{route('report')}}"><img style="width: 50px" src="{{asset('images/button-image-3.png')}}" alt="quiz-button"></a>
+{{--        <a href="{{route('quiz')}}"><img style="width: 50px" src="{{asset('images/button-image-1.png')}}" alt="quiz-button"></a>--}}
+{{--        <a href="{{route('report')}}"><img style="width: 50px" src="{{asset('images/button-image-3.png')}}" alt="quiz-button"></a>--}}
     </div>
 
     <div class="nickname">
