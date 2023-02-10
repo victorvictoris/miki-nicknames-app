@@ -29,7 +29,8 @@
                 </a>
             </form>
         @else
-            <span style="color: white">{{$greet}}, {{$nickname->name}}!</span><br>
+{{--            <span style="color: white">{{$greet}}, {{$nickname->name}}!</span><br>--}}
+            <span style="color: white">{{$nickname->name}}!</span><br>
             <span class="nickname-description" style="color: white">~ {{$nickname->description}} ~</span>
         @endif
     </div>
