@@ -45,17 +45,17 @@ class NicknameSeeder extends Seeder
                 'description' => 'MikaJa Te Volim <3'
             ],
             [
-                'name' => 'ala',
+                'name' => 'Mikala',
                 'description' => 'MikALAL ti vera što si najbolja Miki na svetu!!!'
             ],
-            [
-                'name' => 'Mikana',
-                'description' => '.'
-            ],
-            [
-                'name' => 'Mikano',
-                'description' => '.'
-            ],
+//            [
+//                'name' => 'Mikana',
+//                'description' => '.'
+//            ],
+//            [
+//                'name' => 'Mikano',
+//                'description' => '.'
+//            ],
             [
                 'name' => 'Miko',
                 'description' => 'Miko<3'
